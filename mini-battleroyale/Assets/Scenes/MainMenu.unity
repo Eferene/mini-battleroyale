@@ -2685,6 +2685,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1896232253}
     m_Modifications:
+    - target: {fileID: -3045001619811417142, guid: 07dddb1f2ecd01b469741a7a55eff4cf, type: 3}
+      propertyPath: SortKey
+      value: 1979323066
+      objectReference: {fileID: 0}
     - target: {fileID: 4704032732573781866, guid: 07dddb1f2ecd01b469741a7a55eff4cf, type: 3}
       propertyPath: m_Name
       value: character female_1
@@ -2785,6 +2789,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1896232253}
     m_Modifications:
+    - target: {fileID: -6287815697256046542, guid: eb52cf46d72416744ad7d290e87d0f08, type: 3}
+      propertyPath: SortKey
+      value: 3802899565
+      objectReference: {fileID: 0}
     - target: {fileID: 3479970308088522576, guid: eb52cf46d72416744ad7d290e87d0f08, type: 3}
       propertyPath: m_Name
       value: character male_1
